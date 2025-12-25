@@ -1,4 +1,4 @@
-# react-training-base-project-BAW
+# react-training-base-project-BAW-TAW
 Base project and playground for learning React with a modular architecture approach. This project applies MVVM-inspired structure to React using JavaScript, aiming to improve maintainability, scalability, and code handover by enforcing clear separation between UI, logic, and data layers.
 
 This repository is created as a learning environment for React and JavaScript, using MVVM and modular architecture.
